@@ -1,0 +1,1 @@
+<view class="load-more data-v-4ffed56a">{{items.loadtext}}</view>
